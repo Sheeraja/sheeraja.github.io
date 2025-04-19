@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Sheeraja Rajakrishnan
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    # - name: Languages
+    #   value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Rochester Institute of Technology Computing and Information Sciences
+      year: 2022 - Present
       description:
         - Description 1.
         - Description 2.
