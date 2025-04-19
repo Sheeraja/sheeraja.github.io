@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='#'>PhD Student @ Rochester Institue of Technology</a>. sheeraja@mail.rit.edu. <!-- Address. Contacts. Motto. Etc. -->
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <!-- <p>Rochester, NY</p> -->
 
