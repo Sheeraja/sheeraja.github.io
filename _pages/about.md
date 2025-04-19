@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Rochester Institue of Technology</a>. <!-- Address. Contacts. Motto. Etc. -->
+subtitle: <a href='#'>PhD Student @ Rochester Institue of Technology</a>. sheeraja@mail.rit.edu. <!-- Address. Contacts. Motto. Etc. -->
 
 profile:
-  align: right
-  image: LinkedIn Headshot_1.jpg
+  align: left
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rochester, NY</p>
+    <!-- <p>Rochester, NY</p> -->
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/overview) at [the Rochester Institute of Technology[(https://www.rit.edu/), where I am advised by [Prof. Daniel Krutz](https://www.rit.edu/computing/directory/dxkvse-daniel-krutz).
+Sheeraja Rajakrishnan is a Ph.D. student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/overview) at [the Rochester Institute of Technology](https://www.rit.edu/), where she is advised by [Prof. Daniel Krutz](https://www.rit.edu/computing/directory/dxkvse-daniel-krutz).
 
-I am broadly interested in machine learning, particularly in uncertainty-aware reinforcement learning.
+My research interests include reinforcement learning and uncertainty-aware machine learning. My dissertation aims at developing uncertainty-aware modules and methodologies that can improve the trustworthiness of machine learning models in daily life.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
