@@ -6,7 +6,7 @@ subtitle: <a href='#'>Rochester Institue of Technology</a>. <!-- Address. Contac
 
 profile:
   align: right
-  image: LinkedIn Headshot_1.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rochester, NY</p>
