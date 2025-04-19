@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/overview) at [the Rochester Institute of Technology[(https://www.rit.edu/), where I am advised by [Prof. Daniel Krutz](https://www.rit.edu/computing/directory/dxkvse-daniel-krutz).
+I am a Ph.D. student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/overview) at [the Rochester Institute of Technology](https://www.rit.edu/), where I am advised by [Prof. Daniel Krutz](https://www.rit.edu/computing/directory/dxkvse-daniel-krutz).
 
 I am broadly interested in machine learning, particularly in uncertainty-aware reinforcement learning.
 
