@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Teaching/
-title: teaching
+title: Teaching
 description: Invited Talks and Guest Lectures
 nav: true
 nav_order: 6
