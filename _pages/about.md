@@ -7,7 +7,7 @@ subtitle: <a href='#'>PhD Student @ Rochester Institue of Technology</a>. sheera
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <!-- <p>Rochester, NY</p> -->
 
