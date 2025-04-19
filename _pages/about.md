@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Rochester Institue of Technology</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Rochester Institue of Technology</a>. <!-- Address. Contacts. Motto. Etc. -->
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: LinkedIn Headshot_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rochester, NY</p>
