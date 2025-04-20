@@ -22,6 +22,19 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Rochester Institute of Technology",
+      "location": "Rochester, NY",
+      "url": "https://www.rit.edu/",
+      "area": "Uncertainty-aware reinforcement learning",
+      "studyType": "PhD",
+      "startDate": "2022-08-22",
+      "endDate": "2027-05-08",
+      "score": "3.96",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -43,19 +56,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Rochester Institute of Technology",
-      "location": "Rochester, NY",
-      "url": "https://www.rit.edu/",
-      "area": "Uncertainty",
-      "studyType": "PhD",
-      "startDate": "2022-08-22",
-      "endDate": "2027-05-08",
-      "score": "3.96",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
