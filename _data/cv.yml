@@ -1,8 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Sheeraja Rajakrishnan
+    - title: Title
+      value: PhD Student
+    - email: E-Mail
+      value: sheeraja@mail.rit.edu
+    - summary: Summary
+      value: A PhD student researching uncertainty-aware reinforcement learning
     # - name: Date of Birth
     #   value: 14th March 1879
     # - name: Languages
