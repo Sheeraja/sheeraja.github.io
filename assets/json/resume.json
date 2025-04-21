@@ -42,11 +42,8 @@
       "url": "https://example.com",
       "startDate": "2020-04-06",
       "endDate": "2022-06-10",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Developed multiple Tableau reports to communicate video visits data analyses insights, with stakeholders", "Developed an interactive Tableau dashboard and custom Google Analytics reports and dashboards for analyzing COVID-19 web traffic",
-                      "Worked on a PoC algorithm for face recognition, using Python and the sklearn package", "Created a dynamic Tableau dashboard to track all the published reports on the Tableau server, using the PostgreSQL Tableau Server Repository", 
-                      "Created a Tableau dashboard to forecast pageviews, using SARIMAX and the TabPy server", "Conducted data science sessions, for colleagues, on Logistic Regression, K-Means and K-Modes Clustering, Dimensionality Reduction, Decision Trees and TabPy",
-                      "Utilized NLP models to categorize patient emails (using Python and spaCy)"]
+      "summary": "",
+      "highlights": ["Developed multiple Tableau reports to communicate video visits data analyses insights, with stakeholders"]
     }
   ],
   "skills": [
