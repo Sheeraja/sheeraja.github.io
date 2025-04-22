@@ -88,5 +88,5 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Uncertainty Estimation.
-    - title: Reinforcement Learning.
+    - title: Uncertainty Estimation
+    - title: Reinforcement Learning
