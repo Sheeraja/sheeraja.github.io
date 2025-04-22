@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sheeraja Rajakrishnan",
-    "label": "PhD Student",
+    "label": "PhD Student @ Rochester Institute of Technology",
     "image": "",
     "email": "sheeraja@mail.rit.edu",
     "phone": "",
@@ -44,6 +44,17 @@
     }
   ],
   "work": [
+    {
+      "name": "Rochester Institute of Technology",
+      "position": "Machine Learning Researcher",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Researching on uncertainty-aware reinforcement learning models",
+        "Passed the Research Potential Assessment in May 2022"
+      ]
+    },
     {
       "name": "Kaiser Permanente",
       "position": "Data Analyst/Data Scientist",
