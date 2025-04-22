@@ -89,7 +89,9 @@
       "startDate": "2017",
       "endDate": "2019",
       "summary": "",
-      "highlights": ["Worked on analysis of a social network using K-core decomposition, in Python, to segregate nodes into different clusters and to assess the impact of the removal of one node on other nodes"]
+      "highlights": [
+        "Worked on analysis of a social network using K-core decomposition, in Python, to segregate nodes into different clusters and to assess the impact of the removal of one node on other nodes"
+      ]
     },
     {
       "name": "Tata Consultancy Services (TCS)",
@@ -154,10 +156,7 @@
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Uncertainty Estimation",
-        "Reinforcement Learning"
-      ]
+      "keywords": ["Uncertainty Estimation", "Reinforcement Learning"]
     }
   ]
 }
