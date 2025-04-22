@@ -6,8 +6,41 @@
     "email": "sheeraja@mail.rit.edu",
     "phone": "",
     "url": "https://sheeraja.github.io/",
-    "summary": "A PhD student researching uncertainty-aware reinforcement learning"
+    "summary": "PhD student researching uncertainty-aware reinforcement learning"
   },
+  "education": [
+    {
+      "institution": "Rochester Institute of Technology",
+      "location": "Rochester, NY",
+      "url": "https://www.rit.edu/",
+      "area": "Uncertainty-aware reinforcement learning",
+      "studyType": "PhD",
+      "startDate": "2022",
+      "endDate": "2027",
+      "score": "3.96",
+      "courses": [""]
+    },
+    {
+      "institution": "Syracuse University",
+      "location": "Syracuse, NY",
+      "url": "https://www.syracuse.edu/",
+      "studyType": "MS",
+      "startDate": "2017",
+      "endDate": "2019",
+      "score": "3.55",
+      "courses": [""]
+    },
+    {
+      "institution": "SSN College of Engineering",
+      "location": "Chennai, India",
+      "url": "https://www.ssn.edu.in/college-of-engineering/",
+      "studyType": "BE",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.73",
+      "courses": [""]
+    },
+  ],
   "work": [
     {
       "name": "Kaiser Permanente",
@@ -17,19 +50,6 @@
       "endDate": "2022-06-10",
       "summary": "",
       "highlights": ["Developed multiple Tableau reports to communicate video visits data analyses insights, with stakeholders"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Rochester Institute of Technology",
-      "location": "Rochester, NY",
-      "url": "https://www.rit.edu/",
-      "area": "Uncertainty-aware reinforcement learning",
-      "studyType": "PhD",
-      "startDate": "2022-08-22",
-      "endDate": "2027-05-08",
-      "score": "3.96",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "skills": [
