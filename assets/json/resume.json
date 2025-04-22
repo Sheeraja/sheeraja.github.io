@@ -35,6 +35,17 @@
       "courses": ["Theory of Relativity"]
     }
   ],
+  "work": [
+    {
+      "name": "Kaiser Permanente",
+      "position": "Data Analyst/Data Scientist",
+      "url": "https://example.com",
+      "startDate": "2020-04-06",
+      "endDate": "2022-06-10",
+      "summary": "",
+      "highlights": ["Developed multiple Tableau reports to communicate video visits data analyses insights, with stakeholders"]
+    }
+  ],
   "skills": [
     {
       "name": "Languages",
