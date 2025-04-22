@@ -45,11 +45,18 @@
     {
       "name": "Kaiser Permanente",
       "position": "Data Analyst/Data Scientist",
-      "url": "https://example.com",
-      "startDate": "2020-04-06",
-      "endDate": "2022-06-10",
+      "startDate": "2020",
+      "endDate": "2022",
       "summary": "",
       "highlights": ["Developed multiple Tableau reports to communicate video visits data analyses insights, with stakeholders"]
+    },
+    {
+      "name": "Kaiser Permanente",
+      "position": "Technical Business Analyst",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": ["Automated a portion of the testing process to reduce the testing time from 20 minutes to 30 seconds, using Python", "Worked on QA and database regression testing"]
     }
   ],
   "skills": [
