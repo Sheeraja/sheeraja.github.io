@@ -8,11 +8,7 @@
     - name: E-Mail
       value: sheeraja@mail.rit.edu
     - name: Summary
-      value: A PhD student researching uncertainty-aware reinforcement learning
-    # - name: Date of Birth
-    #   value: 14th March 1879
-    # - name: Languages
-    #   value: English, German
+      value: PhD student researching uncertainty-aware reinforcement learning
 
 - title: Education
   type: time_table
@@ -21,19 +17,19 @@
       institution: Rochester Institute of Technology, Rochester, NY
       year: 2022 - Present
       description:
-        - Computing and Information Sciences.
+        - Computing and Information Sciences
       
     - title: M.S.
       institution: Syracuse University, Syracuse, NY
       year: 2017 - 2019
       description:
-        - Computer Science.
+        - Computer Science
     
     - title: B.E.
       institution:  SSN College of Engineering, Chennai, India
       year: 2010 - 2014
       description:
-        - Computer Science.
+        - Computer Science
 
 - title: Experience
   type: time_table
