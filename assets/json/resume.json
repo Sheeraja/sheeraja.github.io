@@ -56,7 +56,10 @@
       "startDate": "2019",
       "endDate": "2020",
       "summary": "",
-      "highlights": ["Automated a portion of the testing process to reduce the testing time from 20 minutes to 30 seconds, using Python", "Worked on QA and database regression testing"]
+      "highlights": [
+        "Automated a portion of the testing process to reduce the testing time from 20 minutes to 30 seconds, using Python",
+        "Worked on QA and database regression testing"
+      ]
     }
   ],
   "skills": [
