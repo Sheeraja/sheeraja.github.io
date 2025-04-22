@@ -7,21 +7,18 @@
     "phone": "",
     "url": "https://sheeraja.github.io/",
     "summary": "A PhD student researching uncertainty-aware reinforcement learning",
-    "location": {
-      "address": "",
-      "postalCode": "NY 14623",
-      "city": "Rochester",
-      "countryCode": "US",
-      "region": "New York"
-    },
-    "profiles": [
-      {
-        "network": "X",
-        "username": "RSK_206",
-        "url": "https://x.com/RSK_206"
-      }
-    ]
   },
+  "work": [
+    {
+      "name": "Kaiser Permanente",
+      "position": "Data Analyst/Data Scientist",
+      "url": "https://example.com",
+      "startDate": "2020-04-06",
+      "endDate": "2022-06-10",
+      "summary": "",
+      "highlights": ["Developed multiple Tableau reports to communicate video visits data analyses insights, with stakeholders"]
+    }
+  ],
   "education": [
     {
       "institution": "Rochester Institute of Technology",
@@ -48,47 +45,6 @@
         "C++"
       ]
     },
-    {
-      "name": "Front End",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "HTML", 
-        "CSS", 
-        "PHP"
-      ]
-    },
-    {
-      "name": "Software",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Tableau",
-        "Jupyter Notebook",
-        "RStudio", 
-        "Eclipse", 
-        "SAP BO", 
-        "Google Analytics"
-      ]
-    },
-    {
-      "name": "Databases",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MySQL", 
-        "Hive", 
-        "Impala"
-      ]
-    },
-    {
-      "name": "Version Control",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git"
-      ]
-    }
   ],
   "interests": [
     {
